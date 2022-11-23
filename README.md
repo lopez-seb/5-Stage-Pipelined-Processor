@@ -1,5 +1,5 @@
 
-#All files necessary for creating the 5 Stage Pipelined Processor
+# All files necessary for creating the 5 Stage Pipelined Processor
 
 Importing these files into a Vivado Project should be sufficient to instantiate the project.
 
